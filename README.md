@@ -1,5 +1,4 @@
-# Kingdom-Mentality-
-Life Coaching and Youth Mentorship Platform
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
